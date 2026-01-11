@@ -1,0 +1,7 @@
+{
+  "name": "TerraForm AI - Landscape Sales Pro",
+  "description": "A comprehensive landscaping sales tool with AI-powered yard visualization, lead capture forms, and instant quote generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
